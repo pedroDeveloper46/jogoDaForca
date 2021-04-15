@@ -1,0 +1,6 @@
+classe
+objeto
+encapsulamento
+heranca
+polimorfismo
+sobrescrita
